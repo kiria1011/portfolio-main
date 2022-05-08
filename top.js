@@ -14,7 +14,7 @@ loading_2_close.addEventListener("animationend", () => {
     loading_2.style.display = "none";
   },200)
 });
-loading_2-2////
+// loading_2-2////
 var loading_2_close = document.getElementById("title_underline");
 
 loading_2_close.addEventListener("animationend", () => {
