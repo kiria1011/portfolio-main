@@ -63,7 +63,7 @@ a {
   top: 0;
   left: 0;
   z-index: 9000;
-  background-image: url(../img/back2.png);
+  background-image: url(./img/back2.png);
   transition:  2s linear;
 }
 .loader_1 {
@@ -137,7 +137,7 @@ a {
   left: 0;
   z-index: 8000;
   display: none;
-  background-image: url(../img/back2.png);
+  background-image: url(./img/back2.png);
   }
   #loader_2 {
     height: auto;
@@ -319,7 +319,7 @@ header {
   flex-wrap:nowrap;
   justify-content: space-between;
   align-items: center;
-  background-image: url(../img/back.png)
+  background-image: url(./img/back.png)
 }
 .header-logo {
   margin: 5px 0 0 80px;
@@ -443,7 +443,7 @@ header {
   transition: 0.2s 0.4s linear;
 }
 .navi {
-  background-image: url(../img/sidemenu.jpg);
+  background-image: url(./img/sidemenu.jpg);
   background-size: cover;
   background-position: center center;
   position: absolute;
@@ -527,7 +527,7 @@ header {
 /* top */
 .top {
   height: calc(100vh - 80px);
-  background-image: url(../img/backimg3.jpg);
+  background-image: url(./img/backimg3.jpg);
   background-size: cover;
   position: relative;
   z-index: 3000;
@@ -664,7 +664,7 @@ header {
   color: #fff;
   position: relative;
   text-align: center;
-  background-image: url(../img/back3.png);
+  background-image: url(./img/back3.png);
 }
 .about-this-site h3 {
   position: absolute;
@@ -683,7 +683,7 @@ header {
 .about-me {
   height: 100vh;
   border-top: solid 1px skyblue;
-  background-image: url(../img/back.png);
+  background-image: url(./img/back.png);
   position: relative;
 }
 .about-me h3 {
@@ -739,7 +739,7 @@ header {
   height: auto;
   text-align: center;
   color: #fff;
-  background-image: url(../img/back3.png);
+  background-image: url(./img/back3.png);
   padding-bottom: 50px;
 }
 .profile h3 {
@@ -814,7 +814,7 @@ header {
 .skills {
   width: 100%;
   height: 120vh;
-  background-image: url(../img/back.png);
+  background-image: url(./img/back.png);
   position: relative;
 }
 .skill-title {
@@ -935,7 +935,7 @@ header {
 .works {
   width: 100%;
   height: auto;
-  background-image: url(../img/back3.png);
+  background-image: url(./img/back3.png);
   color: #fff;
   padding-bottom: 50px;
 }
@@ -1022,7 +1022,7 @@ filter: blur(5px);
   width: 100%;
   height: 80px;
   position: relative;
-  background-image: url(../img/back.png);
+  background-image: url(./img/back.png);
 }
 .footer p {
   line-height: 80px;
