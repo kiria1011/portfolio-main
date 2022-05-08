@@ -1,0 +1,199 @@
+@media screen and (max-width:1400px) {
+  .btn-group {
+    padding-left: 1vw;
+  }
+}
+@media screen and (max-width:1024px) {
+  #loader_2 {
+    margin-top: 28%;
+  }
+  .sound_button_on  {
+    width: 80px;
+    height: 80px;
+  }
+  .sound_button_off {
+    width: 80px;
+    height: 80px;
+  }
+  .about-me-content {
+    width: 80%;
+    margin-left: 5%;
+  }
+  .my-photo {
+    width: 350px;
+    height: 350px;
+  }
+  .about-left {
+    margin: 0 5% 0 13%;
+  }
+  .about-right {
+    padding-top: 0;
+    padding-bottom: 6%;
+  }
+  .about-right p {
+    font-size: 1.4rem;
+  }
+  .about-me-list {
+    font-size: 1.2rem;
+  }
+  .leaf-left {
+    margin-left: 12%;
+  }
+  .profile-photo {
+    margin-bottom: 14%
+  }
+  .profile-photo:nth-of-type(n+2) {
+    margin-top: 15%;
+}
+  .leaf-right h2 {
+    font-size: 2rem;
+}
+.skills {
+  height: 170vh;
+}
+.skill-content {
+  width: 70%;
+  margin-left: 15%;
+  top: 20%;
+  gap: 80px 80px;
+}
+.skill-slide li {
+  padding-left: 22%;
+}
+.works-content {
+  width: 90%;
+}
+.work-box {
+  width: 350px;
+}
+}
+@media screen and (max-width:540px) {
+  .open-menu {
+    width: 100vw;
+    height: 100vh;
+  }
+  #loader_2 {
+    margin-top: 60%;
+  }
+  .sound_button_on  {
+    width: 70px;
+    height: 70px;
+  }
+  .sound_button_off {
+    width: 70px;
+    height: 70px;
+  }
+  .header-logo {
+    margin: 5px 0 0 40px;
+  }
+  .header-logo-inner {
+    width: 40px;
+    height: 40px;
+}
+  .header-title h1 {
+    font-size: 2.5vw;
+  }
+  h2 {
+    font-size: 1rem;
+  }
+  h3 {
+    font-size: 2.5rem;
+  }
+  .top-title img {
+    width: 200px;
+    height: 50px;
+  }
+  .top p {
+    font-size: 2.5rem;
+  }
+  .top-btn {
+    width: 50px;
+    height: 50px;
+  }
+  .top-btn:first-child::before {
+    width: 50px;
+    height: 50px;
+  }
+  .top-btn:nth-child(2)::before {
+    width: 50px;
+    height: 50px;
+  }
+  .top-btn:last-child::before {
+    width: 50px;
+    height: 50px;
+  }
+  .top button {
+    width: 50px;
+    height: 50px;
+  }
+  .about-this-site p {
+    font-size: 1.2rem;
+  }
+  .about-me {
+    height: 150vh;
+  }
+  .about-me-content {
+    flex-direction: column;
+    top: 25%;
+  }
+  .about-right {
+    padding-top: 10%;
+    padding-bottom: 0;
+    padding-left: 15%;
+  }
+  .profile {
+    padding-bottom: 100px;
+  }
+  .leaf-left h2 {
+    font-size: 1.5rem;
+  }
+  .leaf-left .year:nth-child(n+2) {
+    margin-top: 180px;
+  }
+  .leaf-center {
+    padding-left: 10%;
+  }
+  .branch-left {
+    width: 3px;
+    height: 1300px;
+  }
+  .branch-1 {
+    width: 50px;
+    height: 3px;
+    margin-bottom: 40px;
+  }
+  .branch-right .branch-1:nth-child(n+2) {
+    margin-top: 200px;
+  }
+  .leaf-right img {
+  width: 100px;
+  height: 100px;
+  }
+  .leaf-right h2 {
+    font-size: 1.2rem;
+  }
+  .profile-photo {
+    margin-top: 12%;
+  }
+  .profile-photo:nth-of-type(n+2) {
+    margin-top: 16%;
+  }
+  .skills {
+    height: 250vh;
+  }
+  .skill-title {
+    top: 5%;
+  }
+  .skill-content {
+    gap: 30px 0;
+    top: 10%;
+  }
+  .skill-slide p {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  .skill-slide ul {
+    border: none;
+    font-size: 1.3rem;
+  }
+}
