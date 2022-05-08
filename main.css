@@ -63,7 +63,7 @@ a {
   top: 0;
   left: 0;
   z-index: 9000;
-  background-image: url(/img/back2.png);
+  background-image: url(./img/back2.png);
   transition:  2s linear;
 }
 .loader_1 {
@@ -137,7 +137,7 @@ a {
   left: 0;
   z-index: 8000;
   display: none;
-  background-image: url(/img/back2.png);
+  background-image: url(./img/back2.png);
   }
   #loader_2 {
     height: auto;
@@ -319,7 +319,7 @@ header {
   flex-wrap:nowrap;
   justify-content: space-between;
   align-items: center;
-  background-image: url(/img/back.png)
+  background-image: url(./img/back.png)
 }
 .header-logo {
   margin: 5px 0 0 80px;
